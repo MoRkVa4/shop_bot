@@ -1,0 +1,12 @@
+
+TOKEN = '5611417538:AAF8YfLR74owOoT9TF3xdYfx6Z7TWjwA0KM'
+PROVIDER_TOKEN = ""
+ADMINS = ''
+
+DB_NAME = 'shop_19_30'
+DB_HOST = 'localhost'
+DB_PASSWORD = '123456'
+DB_PORT = ''
+DB_USER = 'postgres'
+
+
